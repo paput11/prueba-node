@@ -1,0 +1,38 @@
+[
+{
+"id" : 1,
+"marca" : "Olmo",
+"modelo" : "Regal",
+"rodado" : 29,
+"anio" : 2022,
+"color": "roja",
+"peso" : 16,
+"tipo" : "Montañera",
+"precio" : 120000,
+"vendida" : "si"
+},
+{
+    "id" : 2,
+    "marca" : "Shimano",
+    "modelo" : "Techno",
+    "rodado" : 26,
+    "anio" : 2021,
+    "color": "verde",
+    "peso" : 18,
+    "tipo" : "ruta",
+    "precio" : 130000,
+    "vendida" : "no"   
+},
+{
+    "id" : 1,
+"marca" : "fixie",
+"modelo" : "Sunshine",
+"rodado" : 28,
+"anio" : 2020,
+"color": "amarilla",
+"peso" : 15,
+"tipo" : "Retro",
+"precio" : 10000,
+"vendida" : "no"
+}
+] 

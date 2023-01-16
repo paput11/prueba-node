@@ -1,0 +1,17 @@
+[
+    {
+        "nombre": "Donald",
+        "origen": "Walt Disney",
+        "edad": 88
+    },
+    {
+        "nombre": "Lucas",
+        "origen": "Warner Bros",
+        "edad": 85
+    },
+    {
+        "nombre": "Duckman",
+        "origen": "USA Network",
+        "edad": 28
+    }
+]
